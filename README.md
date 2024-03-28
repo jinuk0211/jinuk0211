@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: dnr9333@gmail.com
 - 🌱 I’m currently learning biology and cs at KNU uni
-    
+대외활동
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
 dacon cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
