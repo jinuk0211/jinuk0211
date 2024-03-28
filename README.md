@@ -2,7 +2,7 @@
 - 📫 How to reach me: dnr9333@gmail.com
 - 🌱 경북대 생명공학과 재학중
 
-기술 스택 # <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=#D1180B"/>
+기술 스택 # <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=D1180B"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-345F53?style=flat-square&logo=C++&logoColor=345F53"/>
 <img
