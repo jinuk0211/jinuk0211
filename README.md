@@ -23,7 +23,7 @@ src="https://img.shields.io/badge/Flutter-79EDFF?style=flat-square&logo=#Flutter
 
 
 
-history
+대외활동
 
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
