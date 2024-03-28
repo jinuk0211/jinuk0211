@@ -1,5 +1,5 @@
-###  👋
-- 📫 How to reach me: dnr9333@gmail.com
+
+- 📫 dnr9333@gmail.com
 - 🌱 Knu biology major
 
 기술 스택 # <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=D1180B"/>
