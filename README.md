@@ -1,6 +1,6 @@
-### Hi there 👋
+###  👋
 - 📫 How to reach me: dnr9333@gmail.com
-- 🌱 I’m currently learning biology and cs at KNU uni
+- 🌱 경북대 생명공학과 재학중
 
 대외활동
 
