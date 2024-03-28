@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 📫 How to reach me: dnr9333@gmail.com
+- 🌱 I’m currently learning biology and cs at KNU uni
+    
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
 dacon cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
@@ -17,7 +20,7 @@ kaggle LLM - Detect AI Generated Text - bronze medal
 프론트엔드 # <img src="https://img.shields.io/badge/Flutter-0B6DB7?style=flat-square&logo=#Flutter&logoColor=0B6DB7"/>
 
 
-#![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
+![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
 ![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
 
 
