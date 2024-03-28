@@ -12,9 +12,7 @@ dacon 반도체소자 이상 탐지 ai 경진대회 - 상위 30%
 
 kaggle LLM - Detect AI Generated Text - bronze medal
 
-기술 스택 
-
-# <img src="https://img.shields.io/badge/PyTorch-D1180B?style=flat-square&logo=#EE4C2C&logoColor=#D1180B"/>
+기술 스택 # <img src="https://img.shields.io/badge/PyTorch-D1180B?style=flat-square&logo=#EE4C2C&logoColor=#D1180B"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-345F53?style=flat-square&logo=C++&logoColor=345F53"/>
 
