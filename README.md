@@ -25,11 +25,11 @@ src="https://img.shields.io/badge/Flutter-79EDFF?style=flat-square&logo=#Flutter
 
 history
 
-dacon 직쏘퍼즐 ai competition - 상위 10%
+dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
-cpp 코드 유사성 판단 ai competition - 상위 10%
+cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
 
-dacon 반도체소자 이상 탐지 ai competition - 상위 30%
+dacon 반도체소자 이상 탐지 ai 경진대회 - 상위 30%
 
 dacon 고객 대출등급 분류대회 hackathon - 상위 20%
 
