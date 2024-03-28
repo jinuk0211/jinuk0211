@@ -14,7 +14,7 @@ kaggle LLM - Detect AI Generated Text - bronze medal
 백엔드 # <img src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
 <img src="https://img.shields.io/badge/Django-0A3711?style=flat-square&logo=#Django&logoColor=0A3711"/>
 
-
+프론트엔드 # <img src="https://img.shields.io/badge/Flutter-0B6DB7?style=flat-square&logo=#Flutter&logoColor=0B6DB7"/>
 
 
 #![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
