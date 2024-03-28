@@ -1,4 +1,12 @@
 ### Hi there 👋
+dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
+dacon cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
+dacon 반도체소자 이상 탐지 ai 경진대회 - 상위 30%
+kaggle LLM - Detect AI Generated Text - bronze medal
+
+#![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
+![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
+
 
 <!--
 **jinuk0211/jinuk0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
