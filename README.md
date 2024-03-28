@@ -14,11 +14,11 @@ src="https://img.shields.io/badge/Flutter-79EDFF?style=flat-square&logo=#Flutter
 
 대외활동
 
-dacon 직쏘퍼즐 ai 경진대회, cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
- 
-dacon 반도체소자 이상 탐지 ai 경진대회, 고객 대출등급 분류대회 - 상위 30%
+dacon 직쏘퍼즐 ai 경진대회 - 상위 10퍼
+cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
+dacon 반도체소자 이상 탐지 ai 경진대회 - 상위 30%
+dacon 고객 대출등급 분류대회 해커톤 - 상위 20%
 
-kaggle LLM - Detect AI Generated Text - bronze medal
 
 
 
