@@ -7,9 +7,9 @@
 <img
 src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
 <img src="https://img.shields.io/badge/Django-0A3711?style=flat-square&logo=#Django&logoColor=0A3711"/>💻
-
-
-
+src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
+src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
+src="https://img.shields.io/badge/#430098-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
 
 
 
