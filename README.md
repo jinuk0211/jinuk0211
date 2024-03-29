@@ -7,7 +7,7 @@
 <img
 src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
 <img src="https://img.shields.io/badge/Django-0A3711?style=flat-square&logo=#Django&logoColor=0A3711"/>💻
-<img src="https://img.shields.io/badge/Django-0A3711?style=flat-square&logo=#Django&logoColor=0A3711"/>
+<img src="https://img.shields.io/badge/Flutter-43EED6?style=flat-square&logo=#Flutter&logoColor=43EED6"/>
 <img src="https://img.shields.io/badge/Docker-0A3711?style=flat-square&logo=#Docker&logoColor=0A3711"/>
 
 
