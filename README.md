@@ -31,6 +31,7 @@ dacon 반도체소자 이상 탐지 ai 경진대회 - 상위 30%
 
 dacon 고객 대출등급 분류대회 hackathon - 상위 20%
 
+그외 toeic 950, 정보처리산업기사 
 
 ![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
 ![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
