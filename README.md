@@ -26,9 +26,10 @@ dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
 cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
 
-고객 대출 등급 예측 해커톤, 반도체 소자 이상 탐지 ai 경진대회, 캐글 LLM - Detect AI Generated Text 참여(20,30,bronze)
+캐글 LLM - Detect AI Generated Text - bronze medal
 
-
+고객 대출 등급 예측 해커톤, 반도체 소자 이상 탐지 ai 경진대회(20%,30%)
+ 
 그외 toeic 950, 정보처리산업기사 
 
 ![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
