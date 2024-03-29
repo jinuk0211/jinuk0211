@@ -3,13 +3,12 @@
 - 🌱 Knu biology major
 
 기술 스택 # <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=D1180B"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-345F53?style=flat-square&logo=C++&logoColor=345F53"/>
 <img
 src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
 <img src="https://img.shields.io/badge/Django-0A3711?style=flat-square&logo=#Django&logoColor=0A3711"/>
-<img
-src="https://img.shields.io/badge/Flutter-79EDFF?style=flat-square&logo=#Flutter&logoColor=79EDFF"/>
+
+
 
 
 
