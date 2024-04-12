@@ -24,6 +24,8 @@ dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
 cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
 
+dacon 저해상도 조류 이미지 분류 AI 경진대회 - 상위 8%
+
 캐글 LLM - Detect AI Generated Text - bronze medal
 
 고객 대출 등급 예측 해커톤, 반도체 소자 이상 탐지 ai 경진대회 참여 (20,30)
