@@ -30,6 +30,8 @@ dacon 저해상도 조류 이미지 분류 AI 경진대회 - 상위 8%
 
 고객 대출 등급 예측 해커톤, 반도체 소자 이상 탐지 ai 경진대회 참여 (20,30)
  
+SSM 모델 활용한 ecg데이터 예측 paper 작성 제1저자
+
 토익 955, 정보처리산업기사 
 
 ![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
