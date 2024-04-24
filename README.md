@@ -26,7 +26,7 @@ cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
 
 dacon 저해상도 조류 이미지 분류 AI 경진대회 - 상위 10%
 
-캐글 LLM - Detect AI Generated Text - bronze medal
+캐글 LLM
  
 SSM 모델 활용한 ecg데이터 예측 논문 제1저자
 
