@@ -32,6 +32,9 @@ SSM 모델 활용한 ecg데이터 예측 논문 제1저자
 
 토익 955, 정보처리산업기사 
 
+AI 논문 리뷰 
+https://www.threads.net/@rien_n_est
+
 ![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
 ![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
 
