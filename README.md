@@ -30,7 +30,7 @@ dacon 저해상도 조류 이미지 분류 AI 경진대회 - 상위 10%
  
 SSM 모델 활용한 ecg데이터 예측 논문 제1저자
 
-토익 955, 정보처리산업기사 
+토익 960, 정보처리산업기사 
 
 AI 논문 리뷰 
 https://www.threads.net/@rien_n_est
