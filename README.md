@@ -22,9 +22,7 @@ src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&
 
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
-cpp 코드 유사성 판단 ai 경진대회 - 상위 10%
-
-dacon 저해상도 조류 이미지 분류 AI 경진대회 - 상위 10%
+cpp 코드 유사성 판단 ai 경진대회 - 상위 8%
 
 캐글 LLM - Detect AI Generated Text -bronze medal
  
