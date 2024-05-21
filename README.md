@@ -40,7 +40,8 @@ AI 논문 리뷰
 ===========
 <https://www.threads.net/@rien_n_est>
 
-
+ 
+===========
 ```python
 class Attention(nn.Module):
     """attention is all you need"""
@@ -122,11 +123,11 @@ class Attention(nn.Module):
 
         attn_weights = torch.matmul(query_states, key_states.transpose(2, 3)) / math.sqrt(self.head_dim)
 
-        if attention_mask is not None:  # no matter the length, we just slice it
+        if attention_mask is not None:  #length에 관계없이 
             causal_mask = attention_mask[:, :, :, : key_states.shape[-2]]
             attn_weights = attn_weights + causal_mask
 
-        # upcast attention to fp32
+        # fp32로 upcast
         attn_weights = nn.functional.softmax(attn_weights, dim=-1, dtype=torch.float32).to(query_states.dtype)
         attn_weights = nn.functional.dropout(attn_weights, p=self.attn_pdrop, training=self.training)
         attn_output = torch.matmul(attn_weights, value_states)
