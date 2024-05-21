@@ -1,12 +1,12 @@
 연락처
-=============
+---------------
 - https://www.threads.net/@rien_n_est
 - 📫 dnr9333@gmail.com
 
 
 
 기술스택 
-=============
+----------------
 #<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=D1180B"/>
 <img src="https://img.shields.io/badge/C++-345F53?style=flat-square&logo=C++&logoColor=345F53"/>
 <img
@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&
 
 
 대외활동
-===========
+---------------------
 
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
@@ -37,11 +37,20 @@ SSM 모델 활용한 ecg데이터 예측 논문 제1저자
 토익 960, 정보처리산업기사 
 
 AI 논문 리뷰 
-===========
+-------------
 <https://www.threads.net/@rien_n_est>
 
- 
-===========
+
+
+![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
+![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
+
+
+
+
+
+ ^-^
+-----------
 ```python
 class Attention(nn.Module):
     """attention is all you need"""
@@ -148,11 +157,3 @@ class Attention(nn.Module):
         return attn_output, attn_weights, past_key_value
 
 ```
-
-![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
-![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
-
-
-
-<!--
-**jinuk0211/jinuk0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
