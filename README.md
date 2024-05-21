@@ -1,10 +1,11 @@
-####연락처
+연락처
 =============
 - https://www.threads.net/@rien_n_est
 - 📫 dnr9333@gmail.com
 
 
-####기술스택 
+
+기술스택 
 =============
 #<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=D1180B"/>
 <img src="https://img.shields.io/badge/C++-345F53?style=flat-square&logo=C++&logoColor=345F53"/>
