@@ -26,7 +26,7 @@ src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&
 대외활동
 ---------------------
 
-dacon 고객 대출등급 분류 경진대회 - 상위 16%
+dacon 고객 대출등급 분류 경진대회 - 상위 15%
 
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
