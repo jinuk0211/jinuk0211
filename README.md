@@ -46,7 +46,9 @@ SSM 모델 활용한 ecg데이터 예측 논문 제1저자
 정보처리산업기사 
 
 azure microsoft AI a1-900
+
 azure microsoft cloud fundamental az-900
+
 및 aws certified cloud parctitioner 자격증 
 
 
