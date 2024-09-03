@@ -51,6 +51,9 @@ azure microsoft cloud fundamental az-900
 
 및 aws certified cloud parctitioner 자격증 
 
+Improved generative MCTS verifier with self critique 논문 1저자
+COLING2024 call for
+
 
 AI 논문 리뷰 
 -------------
