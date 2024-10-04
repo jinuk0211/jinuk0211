@@ -54,6 +54,9 @@ azure microsoft cloud fundamental az-900
 Improved generative MCTS verifier with self critique 논문 1저자
 [COLING2025] 
 
+enhancing visual understanding capability of multimodal model through inference scaling 논문 1저자 대한전자학회
+
+[ECIR 2025]
 
 AI 논문 리뷰 
 -------------
