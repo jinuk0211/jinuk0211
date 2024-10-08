@@ -71,7 +71,7 @@ AI 논문 리뷰
 
 
 
- ^-^
+attention is all we need ^-^
 -----------
 ```python
 class Attention(nn.Module):
