@@ -47,8 +47,6 @@ SSM 모델 활용한 ecg데이터 예측 논문 제1저자
 
 azure microsoft AI a1-900
 
-azure microsoft cloud fundamental az-900
-
 및 aws certified cloud parctitioner 자격증 
 
 Improved generative MCTS verifier with self critique 논문 1저자
