@@ -49,8 +49,7 @@ Improved generative MCTS verifier with self critique 논문 1저자
 
 enhancing visual understanding capability of multimodal model through inference scaling 제1저자 - 대한전자공학회
 
-SSM 모델 활용한 ecg데이터 예측 제1저자
-- 정보통신학회 춘계우수논문 선정
+SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계우수논문 선정
 
 tool augmented generative reward model [ECIR 2025]
 
