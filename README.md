@@ -36,11 +36,6 @@ cpp 코드 유사성 판단 ai 경진대회 - 상위 8%
 
 캐글 LLM - Detect AI Generated Text -bronze medal
 
-
-
-SSM 모델 활용한 ecg데이터 예측 논문 제1저자
-및 정보통신학회 춘계우수논문 선정
-
 토익 960,
 
 정보처리산업기사 
@@ -52,9 +47,12 @@ azure microsoft AI a1-900
 Improved generative MCTS verifier with self critique 논문 1저자
 [COLING2025] 
 
-enhancing visual understanding capability of multimodal model through inference scaling 논문 1저자 대한전자학회
+enhancing visual understanding capability of multimodal model through inference scaling 제1저자 - 대한전자공학회
 
-[ECIR 2025]
+SSM 모델 활용한 ecg데이터 예측 제1저자
+- 정보통신학회 춘계우수논문 선정
+
+tool augmented generative reward model [ECIR 2025]
 
 AI 논문 리뷰 
 -------------
