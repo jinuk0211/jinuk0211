@@ -44,7 +44,7 @@ azure microsoft AI a1-900
 
 및 aws certified cloud parctitioner 자격증 
 
-Improved generative MCTS verifier with self critique 논문 1저자
+Improved generative MCTS verifier with self critique
 [COLING2025] 
 
 enhancing visual understanding capability of multimodal model through inference scaling 제1저자 - 대한전자공학회
