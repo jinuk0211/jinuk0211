@@ -51,7 +51,6 @@ enhancing visual understanding capability of multimodal model through inference 
 
 SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계우수논문 선정
 
-tool augmented generative reward model [ECIR 2025]
 
 AI 논문 리뷰 
 -------------
