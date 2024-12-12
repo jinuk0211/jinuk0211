@@ -51,11 +51,9 @@ enhancing visual understanding capability of multimodal model through inference 
 
 SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계우수논문 선정
 
-toward automatic cctv control system with better report generation - preprint
+visual reinforced self training - preprint
 
-visual reinforced self training : V-Critic
-
-verification decoding strategy with test time scaling
+verification decoding strategy with test time scaling - preprint
 
 AI 논문 리뷰 
 -------------
