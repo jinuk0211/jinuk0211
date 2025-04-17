@@ -32,11 +32,7 @@ enhancing visual understanding capability of multimodal model through inference 
 
 SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계우수논문 선정
 
-visual reinforced self training - preprint
-
-verification decoding strategy with test time scaling - preprint
-
-MCTS-V [UIST 2025] 제 1저자
+MCTS-V 제 1저자 - preprint
 
 AI 논문 리뷰 
 -------------
