@@ -7,7 +7,7 @@
 대외활동
 ---------------------
 
-dacon 고객 대출등급 분류 경진대회 - 상위 15%
+dacon 고객 대출등급 분류 경진대회 - 상위 10%
 
 dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
@@ -17,13 +17,9 @@ cpp 코드 유사성 판단 ai 경진대회 - 상위 8%
 
 캐글 LLM - Detect AI Generated Text -bronze medal
 
-토익 960,
+토익 960
 
-정보처리산업기사 
-
-azure microsoft AI a1-900
-
-및 aws certified cloud parctitioner 자격증 
+정보처리산업기사 azure microsoft AI a1-900
 
 Improved generative MCTS verifier with self critique
 [COLING2025] 
