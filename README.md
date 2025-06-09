@@ -32,7 +32,7 @@ MCTS-V 제 1저자 - preprint
 
 scale retrieval augmented generation preprint
 
-SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search [CIKM]
+SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search [CIKM] 제1저자
 
 AI 논문 리뷰 
 -------------
