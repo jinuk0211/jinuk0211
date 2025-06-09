@@ -30,7 +30,7 @@ SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계�
 
 MCTS-V 제 1저자 - preprint
 
-scale-rag preprint
+scale retrieval augmented generation preprint
 
 SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search [CIKM]
 
