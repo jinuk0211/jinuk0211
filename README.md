@@ -32,7 +32,7 @@ MCTS-V 제 1저자 - preprint
 
 scale-rag preprint
 
-SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search
+SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search [CIKM]
 
 AI 논문 리뷰 
 -------------
