@@ -28,11 +28,9 @@ enhancing visual understanding capability of multimodal model through inference 
 
 SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계우수논문 선정
 
-MCTS-V 제 1저자 - preprint
-
 scale retrieval augmented generation preprint
 
-SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search [CIKM] 제1저자
+SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search - preprint
 
 AI 논문 리뷰 
 -------------
