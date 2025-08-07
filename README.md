@@ -2,6 +2,7 @@
 ---------------
 - https://www.threads.net/@rien_n_est
 - 📫 dnr9333@gmail.com
+
 computer vision, LLM
 
 대외활동
