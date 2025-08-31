@@ -2,8 +2,12 @@
 ---------------
 - https://www.threads.net/@rien_n_est
 - 📫 dnr9333@gmail.com
-
 computer vision, LLM
+
+블로그
+---------------------
+https://aipaper.tistory.com/
+https://x.com/ijinug34345785
 
 대외활동
 ---------------------
@@ -34,6 +38,7 @@ https://www.researchgate.net/publication/394305839_SMCTS_Solving_Multi-Step_Math
 
 Timestep and Vector Property–Guided LoRA Fusion for training-free style content adaptation 제 1저자
 [WACV 2026]
+
 AI 논문 리뷰 
 -------------
 <https://www.threads.net/@rien_n_est>
