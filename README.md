@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Jinuk Lee  
 
-🚀 **AI Researcher | Computer Vision · LLM · Multimodal, Agent**  
+🚀 **Interest | Computer Vision · LLM · Multimodal, Agent**  
 📍 Exploring Generative Models, Efficient Inference
 
 ---
