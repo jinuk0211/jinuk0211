@@ -1,61 +1,59 @@
-연락처
----------------
-- https://www.threads.net/@rien_n_est
-- 📫 dnr9333@gmail.com
-computer vision, LLM
+# 👋 Hi, I'm Jinuk Lee  
 
-블로그
----------------------
-https://aipaper.tistory.com/
-https://x.com/ijinug34345785
+🚀 **AI Researcher | Computer Vision · LLM · Multimodal**  
+📍 Exploring Generative Models, Efficient Inference
 
-대외활동
----------------------
+---
 
-dacon 고객 대출등급 분류 경진대회 - 상위 10%
+## 📫 Contact  
+- Threads: [@rien_n_est](https://www.threads.net/@rien_n_est)  
+- Email: **dnr9333@gmail.com**  
+- Blog: [AI Paper Review](https://aipaper.tistory.com/)  
+- X(Twitter): [@ijinug34345785](https://x.com/ijinug34345785)  
 
-dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
+---
 
-cpp 코드 유사성 판단 ai 경진대회 - 상위 8%
+## 🏆 Competitions & Activities  
+- 🥈 **Kaggle**  
+  - LLM Science Exam → *Bronze Medal*  
+  - LLM - Detect AI Generated Text → *Bronze Medal*  
+- 🥉 **Dacon**  
+  - 고객 대출등급 분류 경진대회 → *상위 10%*  
+  - 직쏘퍼즐 AI 경진대회 → *상위 10%*  
+  - C++ 코드 유사성 판단 AI 경진대회 → *상위 8%*  
 
-캐글 LLM science exam -bronze medal 
+---
 
-캐글 LLM - Detect AI Generated Text -bronze medal
+## 📄 Publications  
+- **Improved Generative MCTS Verifier with Self-Critique** – *COLING 2025*  
+- **Enhancing Visual Understanding Capability of Multimodal Model through Inference Scaling** – *대한전자공학회 (1저자)*  
+- **SSM 모델 활용한 ECG 데이터 예측** – *정보통신학회 춘계우수논문 (1저자)*  
+- **SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search** – *Preprint* [[Link](https://www.researchgate.net/publication/394305839_SMCTS_Solving_Multi-Step_Mathematical_Problems_via_Sequential_Monte_Carlo_Tree_Search)]  
+- **Timestep and Vector Property–Guided LoRA Fusion for Training-free Style Content Adaptation** – *WACV 2026 (1저자)*  
 
-토익 960
+---
 
-정보처리산업기사 azure microsoft AI a1-900
+## 🎓 Certificates & Skills  
+- **TOEIC** 960  
+- **정보처리산업기사**  
+- **Microsoft Azure AI Fundamentals (AI-900)**  
 
-Improved generative MCTS verifier with self critique
-[COLING2025] 
+---
 
-enhancing visual understanding capability of multimodal model through inference scaling 제1저자 - 대한전자공학회
+## ⚡ Tech Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+</p>
 
-SSM 모델 활용한 ecg데이터 예측 제1저자 - 정보통신학회 춘계우수논문 선정
+---
 
-SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search - preprint
-https://www.researchgate.net/publication/394305839_SMCTS_Solving_Multi-Step_Mathematical_Problems_via_Sequential_Monte_Carlo_Tree_Search
-
-Timestep and Vector Property–Guided LoRA Fusion for training-free style content adaptation 제 1저자
-[WACV 2026]
-
-AI 논문 리뷰 
--------------
-<https://www.threads.net/@rien_n_est>
-
-
-
-![jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
-![junuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical)
-
-
-기술스택 
-----------------
-#<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=#PyTorch&logoColor=D1180B"/>
-<img src="https://img.shields.io/badge/C++-345F53?style=flat-square&logo=C++&logoColor=345F53"/>
-<img
-src="https://img.shields.io/badge/FASTAPI-43EED6?style=flat-square&logo=#009688&logoColor=43EED6"/>
-<img src="https://img.shields.io/badge/Django-0A3711?style=flat-square&logo=#Django&logoColor=0A3711"/>
-<img src="https://img.shields.io/badge/Flutter-99CCFF?style=flat-square&logo=#Flutter&logoColor=99CCFF"/>
-<img src="https://img.shields.io/badge/Docker-00q9F4?style=flat-square&logo=#Docker&logoColor=0019F4"/>
-
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinuk0211&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinuk0211&layout=compact&theme=radical" height="180"/>
+</p>
