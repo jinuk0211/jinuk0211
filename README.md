@@ -15,7 +15,7 @@
 ## 🏆 Competitions & Activities  
 - 🥈 **Kaggle**  
   - LLM Science Exam → *Bronze Medal*  
-  - LLM - Detect AI Generated Text → *Bronze Medal*  
+  - LLM - Detect AI Generated Text 
 - 🥉 **Dacon**  
   - 고객 대출등급 분류 경진대회 → *상위 10%*  
   - 직쏘퍼즐 AI 경진대회 → *상위 10%*  
@@ -33,7 +33,7 @@
 ---
 
 ## 🎓 Certificates & Skills  
-- **TOEIC** 960  
+- **TOEIC** 950  
 - **정보처리산업기사**  
 - **Microsoft Azure AI Fundamentals (AI-900)**  
 
