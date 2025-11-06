@@ -7,7 +7,7 @@
 ## 📫 Contact  
 - Threads: [@rien_n_est](https://www.threads.net/@rien_n_est)  
 - Email: **dnr9333@gmail.com**  
-- Blog: [AI Paper Review](https://aipaper.tistory.com/)  
+- 논문 번역 Blog: [AI Paper Review](https://aipaper.tistory.com/)  
 - X(Twitter): [@ijinug34345785](https://x.com/ijinug34345785)  
 
 ---
