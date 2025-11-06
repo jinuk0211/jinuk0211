@@ -36,7 +36,7 @@
 - **TOEIC** 950  
 - **정보처리산업기사**  
 - **Microsoft Azure AI Fundamentals (AI-900)**  
-
+- **AI 논문 300편 이상 번역**
 ---
 
 ## ⚡ Tech Stack  
