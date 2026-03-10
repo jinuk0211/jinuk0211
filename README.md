@@ -29,7 +29,8 @@ KNU 전자공학부 인공지능
 - **Mamba(SSM) 모델 활용한 ECG 데이터 예측** – *정보통신학회 춘계우수논문 (1저자)*  [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036671)]
 - **SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search** – *Preprint* [[Link](https://www.researchgate.net/publication/394305839_SMCTS_Solving_Multi-Step_Mathematical_Problems_via_Sequential_Monte_Carlo_Tree_Search)]  
 - **Timestep and Vector Property–Guided LoRA Fusion for Training-free Style Content Adaptation** – *WACV 2026 (1저자)*  [[Link](https://openreview.net/forum?id=H3HcpBKdyI)]
-
+- ** EduPattern: Pattern-Driven Graph Mining for Educational Contexts in Multi-Agent Systems**
+- **Evolving Pareto-Optimal Reasoning Paths in LLMs**
 ---
 
 ## 🎓 Certificates & Skills  
