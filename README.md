@@ -32,7 +32,7 @@ KNU 전자공학부 인공지능
 - **GoalPilot: A Multi-Agent Framework for Personalized Task Decomposition and Dynamic Scheduling in Self-Regulated Learning** - *KSEM 2026*
 - **EduPattern: Pattern-Driven Graph Mining for Educational Contexts in Multi-Agent Systems**
 - **Evolving Pareto-Optimal Reasoning Paths in LLMs** - *MathAI 2026* [[Link](https://openreview.net/forum?id=ife4RyBnkD&noteId=Uv3eRJlmP2)]
-- **eature Exploration in a Hierarchical Multi-Agent LLM Framework** **AMLDS** 
+- **Feature Exploration in a Hierarchical Multi-Agent LLM Framework** *AMLDS*
 ---
 
 ## 🎓 Certificates & Skills  
