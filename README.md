@@ -35,7 +35,7 @@ KNU 전자공학부 인공지능
 - **Feature Exploration in a Hierarchical Multi-Agent LLM Framework** - *AMLDS 2026*
 
 - ## 🎓 Certificates & Skills  
-- **TOEIC** 935
+- **TOEIC** 940
 - **정보처리산업기사**  
 - **Microsoft Azure AI Fundamentals (AI-900)**  
 - **AI 논문 300편 이상 번역**
