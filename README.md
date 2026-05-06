@@ -33,7 +33,7 @@ KNU 전자공학부 인공지능
 - **SMCTS: Solving Multi-Step Mathematical Problems via Sequential Monte Carlo Tree Search** – *Preprint* [[Link](https://www.researchgate.net/publication/394305839_SMCTS_Solving_Multi-Step_Mathematical_Problems_via_Sequential_Monte_Carlo_Tree_Search)]  
 - **Timestep and Vector Property–Guided LoRA Fusion for Training-free Style Content Adaptation** – *WACV 2026*  [[Link](https://openreview.net/forum?id=H3HcpBKdyI)]
 - **GoalPilot: A Multi-Agent Framework for Personalized Task Decomposition and Dynamic Scheduling in Self-Regulated Learning** - *KSEM 2026*
-- **EduPattern: Pattern-Driven Graph Mining for Educational Contexts in Multi-Agent Systems** - *COLM 2026 under review*
+- **EduPattern: Pattern-Driven Graph Mining for Educational Contexts in Multi-Agent Systems** - 
 - **Evolving Pareto-Optimal Reasoning Paths in LLMs** - *MathAI 2026* [[Link](https://openreview.net/forum?id=ife4RyBnkD&noteId=Uv3eRJlmP2)]
 - **H-MAS: A Hierarchical Multi-Agent System for Real-World Equity Investment in Emerging Markets** - *ICML 2026 Workshop*
 - **Harness Engineering for Legal Issue Spotting: Automated Vulnerability Detection in Financial Contracts** - ICML 2026 Workshop
