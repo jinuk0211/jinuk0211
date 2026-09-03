@@ -35,7 +35,7 @@
 - **GoalPilot: A Multi-Agent Framework for Personalized Task Decomposition and Dynamic Scheduling in Self-Regulated Learning** - *KSEM 2026* [[Link](https://link.springer.com/chapter/10.1007/978-981-92-2862-1_29)]
 - **EduPattern: Pattern-Driven Graph Mining for Educational Contexts in Multi-Agent Systems** - PRICAI 2026
 - **Evolving Pareto-Optimal Reasoning Paths in LLMs** - *MathAI 2026* [[Link](https://openreview.net/forum?id=ife4RyBnkD&noteId=Uv3eRJlmP2)]
-- **H-MAS: A Hierarchical Multi-Agent System for Real-World Equity Investment in Emerging Markets** 
+- **H-MAS: A Hierarchical Multi-Agent System for Real-World Equity Investment in Emerging Markets** - ICML 2026 Workshop
 - **Harness Engineering for Legal Issue Spotting: Automated Vulnerability Detection in Financial Contracts** - KDD 2026 Workshop [[Link](https://openreview.net/forum?id=9LHVuRrbYx)]
 - **Bridging the Prompt Distribution Gap: An Evolving Runtime Harness for Text-to-Image Generators** - ACCV 
 - **Diagnosing and Adaptively Steering Tool-Use Failures with the Jacobian Lens** - NeurIPS 2026 Workshop
