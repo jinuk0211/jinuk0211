@@ -37,7 +37,7 @@
 - **Evolving Pareto-Optimal Reasoning Paths in LLMs** - *MathAI 2026* [[Link](https://openreview.net/forum?id=ife4RyBnkD&noteId=Uv3eRJlmP2)]
 - **H-MAS: A Hierarchical Multi-Agent System for Real-World Equity Investment in Emerging Markets** - ICML 2026 Workshop
 - **Harness Engineering for Legal Issue Spotting: Automated Vulnerability Detection in Financial Contracts** - KDD 2026 Workshop [[Link](https://openreview.net/forum?id=9LHVuRrbYx)]
-- **Bridging the Prompt Distribution Gap: An Evolving Runtime Harness for Text-to-Image Generators** - ACCV 2026
+- **Bridging the Prompt Distribution Gap: An Evolving Runtime Harness for Text-to-Image Generators** 
 - **Diagnosing and Adaptively Steering Tool-Use Failures with the Jacobian Lens** - NeurIPS 2026 Workshop
 - ## 🎓 Certificates & Skills  
 - **TOEIC** 940
