@@ -43,7 +43,8 @@
 - **TOEIC** 940
 - **정보처리산업기사**  
 - **Microsoft Azure AI Fundamentals (AI-900)**  
-
+NeurIPS IAB workshop, main reviewer
+KDD workshop reviewer
 ---
 
 ## ⚡ Tech Stack  
