@@ -43,8 +43,8 @@
 - **TOEIC** 940
 - **정보처리산업기사**  
 NeurIPS workshop, main reviewer
-KDD workshop reviewer
-ICML workshop reviewer
+, KDD workshop reviewer
+, ICML workshop reviewer
 ---
 
 ## ⚡ Tech Stack  
