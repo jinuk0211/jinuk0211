@@ -42,9 +42,9 @@
 - ## 🎓 Certificates & Skills  
 - **TOEIC** 940
 - **정보처리산업기사**  
-- **Microsoft Azure AI Fundamentals (AI-900)**  
-NeurIPS IAB workshop, main reviewer
+NeurIPS workshop, main reviewer
 KDD workshop reviewer
+ICML workshop reviewer
 ---
 
 ## ⚡ Tech Stack  
