@@ -1,4 +1,4 @@
-
+KNU 전자공학부
 🚀 **Interest | Computer Vision · LLM · Multimodal, Agent**  
 📍 Exploring Generative Models, Efficient Inference
 
