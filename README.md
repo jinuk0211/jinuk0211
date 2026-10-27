@@ -39,6 +39,7 @@
 - **Bridging the Prompt Distribution Gap: An Evolving Runtime Harness for Text-to-Image Generators** - ACCV 2026 [[Link](https://openreview.net/forum?id=vu0SoOyQYl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dafcv.org%2FACCV%2F2026%2FConference%2FAuthors%23your-submissions))]
 - **Diagnosing and Adaptively Steering Tool-Use Failures with the Jacobian Lens** - NeurIPS IAB workshop
 - **Utility-Guided Retrieval Cues for Conversational Memory** - ACL ARR under review
+- **Auditing Native Circuits for\\Evidence-Preserving Vision-Language Steering** - CVPR? under review
 - ## 🎓 Certificates & Skills  
 - **TOEIC** 940
 - **정보처리산업기사**  
