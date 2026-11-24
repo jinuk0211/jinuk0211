@@ -38,7 +38,7 @@
 - **Harness Engineering for Legal Issue Spotting: Automated Vulnerability Detection in Financial Contracts** - KDD 2026 Workshop [[Link](https://openreview.net/forum?id=9LHVuRrbYx)]
 - **Bridging the Prompt Distribution Gap: An Evolving Runtime Harness for Text-to-Image Generators** - ACCV 2026 [[Link](https://openreview.net/forum?id=vu0SoOyQYl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dafcv.org%2FACCV%2F2026%2FConference%2FAuthors%23your-submissions))]
 - **Diagnosing and Adaptively Steering Tool-Use Failures with the Jacobian Lens** - NeurIPS IAB workshop
-- **Utility-Guided Retrieval Cues for Conversational Memory** - ACL ARR under review
+- **Utility-Guided Retrieval Cues for Conversational Memory** - TMLR under review
 - **Auditing Native Circuits for Preserving Vision-Language transparent Steering** - CVPR under review
 - ## 🎓 Certificates & Skills  
 - **TOEIC** 940
